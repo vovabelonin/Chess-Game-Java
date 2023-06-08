@@ -11,7 +11,10 @@ The game is won by checkmating the opponent's king, i.e. threatening it with ine
 
 There is an implementation of this game. You can play with your friend, record the results of your games.
 The Model-View-Controller pattern was used.
-
+I implemented: menu (where you can start new game, undo move, restart game, pause and quite), score board, chess board
+### Game control
+---
+To move a piece you should first click the piece you want to move then hold down the shift key and click a destination square for the piece selected. 
 
 ### License
 ---
